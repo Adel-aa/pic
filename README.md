@@ -26,3 +26,5 @@ This project demonstrates the application of data analytics skills acquired thro
 Acknowledgements
 Kaggle for providing the avocado prices dataset.
 The Google Data Analytics Professional Certificate team for the comprehensive training and resources.
+
+📧 Contact Me: Have questions or need assistance? Feel free to reach out to us at adel0alaa14@gmail.com. We're here to support you on your learning journey!
